@@ -12,7 +12,7 @@
 
     <header class="navbar navbar-dark bg-primary shadow-sm">
         <div class="container">
-            <h1 class="navbar-brand m-0">Shopping Lists</h1>
+            <h1 class="navbar-brand m-0">Indkøbsliste</h1>
         </div>
     </header>
 
